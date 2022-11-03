@@ -16,7 +16,7 @@
 In the package `partA.ex01` look at the file `Player`
 
 #### Step 02
-*  Modify the `Prisoner` class:
+*  Modify the `Player` class:
   * Include a static integer playerCount field
   * This field counts the total number of players instantiated
   * Initialize this field to 0
